@@ -36,6 +36,8 @@ Run as a java application by passing below VM arguments
 	-Dspring.profiles.active=prod
 	
 	
+once application is up and running hit below url in your browser
+http://localhost:8080/SpringBootCRUDApp/
 
 detailed URL
 http://websystique.com/spring-boot/spring-boot-angularjs-spring-data-jpa-crud-app-example/
