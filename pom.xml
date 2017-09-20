@@ -47,6 +47,11 @@
 			<artifactId>h2</artifactId>
 			<version>${h2.version}</version>
 		</dependency>
+		<!--
+		make sure that u have below  ojdbc jar file in your local repository 
+		mvn install:install-file -DgroupId=com.oracle -DartifactId=ojdbc7 \
+     	-Dversion=12.1.0.2 -Dpackaging=jar -Dfile=ojdbc.jar -DgeneratePom=true 
+        -->
 	 	<dependency>
 		    <groupId>com.oracle</groupId>
 		    <artifactId>ojdbc7</artifactId>
