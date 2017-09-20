@@ -34,3 +34,8 @@ open SpringBootCRUDApp.java file
 
 Run as a java application by passing below VM arguments
 	-Dspring.profiles.active=prod
+	
+	
+
+detailed URL
+http://websystique.com/spring-boot/spring-boot-angularjs-spring-data-jpa-crud-app-example/
