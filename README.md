@@ -1,4 +1,4 @@
-This application is the best example for  combination of Spring Boot + AngularJS + Spring Data + JPA CRUD
+This application is the best example for  Spring Boot + AngularJS + Spring Data + JPA CRUD
 
 
 pre-requisites
